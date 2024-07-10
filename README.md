@@ -1,2 +1,2 @@
 # Practice_Git
-Git Practice
+Git Practice - Example Repository
